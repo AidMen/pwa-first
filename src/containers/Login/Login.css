@@ -1,0 +1,9 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+}
+
+.login-wrapper {
+    width: 420px;
+    max-width: calc(100% - 2.5rem);
+}

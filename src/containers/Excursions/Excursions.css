@@ -1,0 +1,17 @@
+.create-excursion-container {
+    display: flex;
+    justify-content: center;
+}
+
+.create-excursion-wrapper {
+    width: 660px;
+    max-width: calc(100% - 2.5rem);
+}
+
+.card-wrapper {
+    margin: 1rem 0;
+}
+
+.card-actions {
+    background: #f6f6f6;
+}

@@ -1,0 +1,17 @@
+.title{
+    color: #45475C;
+    font-size: 1.5625rem;
+        margin: 0;
+        margin-top: 1rem;
+        text-align: center;
+}
+.sub-title{
+    text-align: center;
+    margin: 0;
+        margin-top: 0rem;
+        font-size: 1.1875rem;
+        font-weight: 200;
+        margin-bottom: 1.8rem;
+
+    color: #45475C;
+}

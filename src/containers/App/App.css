@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+  .drawer-open .bodyWrapper {
+    padding-left: 256px;
+  }
+
+  .drawer-open .navToolbar {
+    padding-left: 270px !important;
+    /* background-color: #fff !important; */
+  } 
+}
